@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @manuel-suarez
 - 👀 I’m interested in machine and deep learning
-- 🌱 I’m currently studying a Ph.D. on Computer Sciencie at Centro de Investigación en Matemáticas (CIMAT)
+- 🌱 I’m currently studying a Ph.D. on Computer Science at Centro de Investigación en Matemáticas (CIMAT)
 - 💞️ I’m looking to collaborate on vision and machine learning projects
 - 📫 You can send me an email to manuel dot suarez at cimat dot mx
 
